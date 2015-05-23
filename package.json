@@ -1,0 +1,23 @@
+{
+  "name": "tlvince-blob-shim",
+  "version": "1.0.0",
+  "description": "Blob shim",
+  "main": "Blob.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eligrey/Blob.js.git"
+  },
+  "keywords": [
+    "blob",
+    "shim"
+  ],
+  "author": "Tom Vincent <npm@tlvince.com> (https://tlvince.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eligrey/Blob.js/issues"
+  },
+  "homepage": "https://github.com/eligrey/Blob.js"
+}
